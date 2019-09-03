@@ -17,7 +17,8 @@
 # sys.path.insert(0, 'C:\Users\AA005431\Desktop\test\Source\test')
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../test'))
+sys.path.insert(0, os.path.abspath('../'))
+
 
 # -- Project information -----------------------------------------------------
 
